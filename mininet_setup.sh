@@ -6,3 +6,5 @@ git tag  # list available versions
 git checkout -b 2.2.1 2.2.1  # or whatever version you wish to install
 cd ..
 mininet/util/install.sh -a
+
+# Tried Doing this, not ideal to setup
